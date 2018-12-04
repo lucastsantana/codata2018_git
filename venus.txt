@@ -1,5 +1,7 @@
 Pro:
-- closer to sun
+- Closer to Sun
+- It is also close to Earth
 
 Con:
-- protomolecule is all over it
+- Protomolecule is all over it
+- Temperature is too high
